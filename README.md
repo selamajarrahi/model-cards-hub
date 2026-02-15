@@ -24,14 +24,15 @@
 
 | Model | Org | Release | Params | Highlights | Card |
 |-------|-----|---------|--------|------------|------|
+| GPT-5.2 | OpenAI | Jan 2026 | ~1-2T | 100% AIME, 400K context | [📄](cards/gpt-5.2.md) |
+| Gemini 3 Pro | Google | Jan 2026 | MoE | 1M context, multimodal leader | [📄](cards/gemini-3-pro.md) |
+| Llama 4 | Meta | Feb 2026 | 400B MoE | Open weights, 52B active | [📄](cards/llama-4.md) |
 | Doubao-Seed-2.0 | ByteDance | Feb 2026 | Unknown | Competes with GPT-5.2, Gemini 3 Pro | [📄](cards/doubao-seed-2.0.md) |
 | Kimi K2 | Moonshot AI | Jul 2025 | 1T (32B active) | MoE, Muon optimizer, agentic focus | [📄](cards/kimi-k2.md) |
 | Claude Opus 4 | Anthropic | 2025 | Unknown | 200K context, extended thinking | [📄](cards/claude-opus-4.md) |
 | DeepSeek R1 | DeepSeek | Jan 2025 | 671B MoE | Open source, matches o1, MIT license | [📄](cards/deepseek-r1.md) |
 | Grok 4 | xAI | Late 2025 | Unknown | Real-time X data, Aurora image gen | [📄](cards/grok-4.md) |
 | Qwen 3 | Alibaba | 2025 | Up to 235B | Apache 2.0, excellent value | [📄](cards/qwen-3.md) |
-| GPT-5.2 | OpenAI | — | — | *Coming soon* |
-| Gemini 3 Pro | Google | — | — | *Coming soon* |
 
 ### Video Generation
 
@@ -75,6 +76,14 @@
 |-------|-------------|
 | [🌳 Model Family Trees](guides/model-family-trees.md) | Evolution of GPT, Claude, Llama, etc. |
 | [👀 Models to Watch](guides/models-to-watch.md) | Upcoming releases and emerging players |
+| [📏 Context Window Comparison](guides/context-window-comparison.md) | **NEW**: Compare context lengths & implications |
+| [🎯 Best Model For X](guides/best-model-for-task.md) | **NEW**: Decision trees for model selection |
+
+### Audio & Embeddings
+| Model | Type | Card |
+|-------|------|------|
+| Whisper v4 | Speech Recognition | [📄](cards/whisper-v4.md) |
+| text-embedding-3 | Text Embeddings | [📄](cards/text-embedding-3.md) |
 
 ---
 
